@@ -26,3 +26,21 @@ All prices are per month
 * $5: 1TB of storage
 * $50: 100TB of storage
 Comments: MediaFire lists "Long-term storage" under their paid plans, and not under their free plans. Don't use their free plan for files you truly care about.
+
+## [OneDrive](http://onedrive.com)
+* Free: 15GB of storage
+* $2: 100GB of storage
+* $4: 200GB of storage
+* $7: 1TB of storage
+
+## [Copy](http://copy.com)
+* Free: 15GB of storage, goes up to 40GB through referrals
+* $5: 100GB of storage
+* $10: 1TB of storage
+
+## [MEGA](http://mega.nz)
+* Free: 50GB of storage
+* €5(~$5.5): 200GB of storage
+* €10(~$11): 500GB of storage
+* €20(~$22): 2TB of storage
+* €30(~$33): 4TB of storage
