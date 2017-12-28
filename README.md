@@ -47,7 +47,6 @@ Comments: MediaFire lists "Long-term storage" under their paid plans, and not un
 
 ## [iCloud](http://icloud.com)
 * Free: 5GB of storage
-* $1: 20GB of storage ($0.05 per GB)
-* $4: 200GB of storage ($0.02 per GB)
-* $10: 500GB of storage ($0.02 per GB)
-* $20: 1TB of storage ($0.019 per GB)
+* $1: 50GB of storage ($0.02 per GB)
+* $3: 200GB of storage ($0.015 per GB)
+* $10: 2TB of storage ($0.005 per GB)
